@@ -1,0 +1,40 @@
+.navbar {
+	background-color: black;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 4px 4px 6px 4px rgba(0, 0, 0, 0.2);
+}
+
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+/*
+.jumbotron {
+	background-color: #388E3C;
+	min-height: 10px;	
+	margin: 10px
+}
+*/
+/*.containdiv {
+	margin-top: 15%;
+}*/
+
+.topic-col{
+	min-width: 16em;
+}
+
+.created-col,
+.last-post-col {
+	min-width: 12em;
+}
+
+.footer {
+	border-color: #212121;
+  	padding: 20px;
+  	background-color: #212121;
+  	color: #FFFFFF;
+  	text-align: center;

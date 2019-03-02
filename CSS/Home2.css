@@ -1,0 +1,39 @@
+
+ .Disciplinas .jumbotron{	
+	background-color: #4CAF50;
+	background-image: url(../Assets/undraw_collecting_fjjl.svg);
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: 30%;
+	color: #FFFFFF;
+	text-align: left;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 4px 4px 6px 4px rgba(0, 0, 0, 0.2);
+}
+
+ .Fórum .jumbotron{
+	background-color: #4CAF50;
+	background-image: url(../Assets/undraw_post_online_dkuk.svg);
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: 30%;
+	color: #FFFFFF;
+	text-align: right;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 4px 4px 6px 4px rgba(0, 0, 0, 0.2);
+}
+
+ .Avisos .jumbotron{	
+	background-color: #4CAF50;
+	background-image: url(../Assets/undraw_events_2p66.svg);
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: 30%;
+	color: #FFFFFF;
+	text-align: left;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 4px 4px 6px 4px rgba(0, 0, 0, 0.2);
+}

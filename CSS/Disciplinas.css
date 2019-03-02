@@ -1,0 +1,20 @@
+body {
+	background-color: #C8E6C9;
+}
+
+.containerdiv {
+	display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 2fr));
+    grid-template-rows: 1fr;
+    align-content: center;
+    padding-top: 8%;
+    padding-bottom: 20px;
+    padding-right: 8%;
+    padding-left: 8%;
+}
+.card {
+	-webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 4px 4px 6px 4px rgba(0, 0, 0, 0.2);
+}
